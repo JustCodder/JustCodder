@@ -18,9 +18,18 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
 </p>
 
 ---
@@ -36,5 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JustCodder&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCodder&layout=compact&theme=dark&hide_border=true&border_radius=10" height="150"/>
 </p>
-
----
