@@ -1,69 +1,21 @@
-<h1 align="center">✨ SilentErased / Scripter & UI </h1>
 
-###
+<h1 align='center'>👋 Hello!</h1> <p align='center'> <a href="https://github.com/SilentErased?tab=repositories"><img src="https://img.shields.io/github/stars/SilentErased?style=flat&logo=github&label=Total%20Stars&color=teal"/></a> <a href="https://discord.com/users/1035571281866801202"><img src="https://img.shields.io/badge/Discord-silenterased-5865F2?logo=discord&logoColor=white"/></a> <a href="https://www.youtube.com/@SilentErased"><img src="https://img.shields.io/badge/YouTube-SilentErased-FF0000?logo=youtube&logoColor=white"/></a> </p>
+I'm SilentErased - a reverse engineer and tester
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-</div>
+### Featured projects
 
-###
+-   🔍 [**BNMExplorer**](https://github.com/SilentErased/BNMExplorer) - a web-based runtime inspector and debugger for IL2CPP Unity games. Browse loaded assemblies, inspect the scene hierarchy, edit objects live through a dnSpy-like interface.
+-   🛠️ [**UnityPatcher**](https://github.com/SilentErased/UnityPatcher) - a .so injector for Unity games.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-</div>
+### Tech Stack
 
-###
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) ![Luau](https://img.shields.io/badge/-Luau-00A2FF?logo=roblox&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![VSCodium](https://img.shields.io/badge/-VSCodium-2F80ED?logo=vscodium&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+### Support
+If my tools helped you out, you can support me
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-support-F5B301?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/SilentErased)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
+----------
 
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=SilentErased&theme=github_dark&show_icons=true&hide_border=true&count_private=true">
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=SilentErased&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SilentErased/SilentErased/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-###
-
-<div align="center">
-  <p>if you like what i build, you can send some TON</p>
-  <code>UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G</code><br><br>
-  <a href="https://tonviewer.com/UQByUL386yk27JU-74w2mBpfyjc8-c7IWk32IEkqGaRd-P5G">
-    <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white" alt="TON Wallet"/>
-  </a>
-</div>
+<p align="center"><i>Let's build something worth reverse-engineering.</i></p>
