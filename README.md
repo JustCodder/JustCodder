@@ -26,7 +26,3 @@ I'm SilentErased - a reverse engineer and tester
 If my tools helped you out, you can support me
 
 [![DonationAlerts](https://img.shields.io/badge/DonationAlerts-support-F5B301?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/SilentErased)
-
-----------
-
-<p align="center"><i>Let's build something worth reverse-engineering.</i></p>
